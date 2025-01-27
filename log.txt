@@ -1,0 +1,29 @@
+[33mcommit 42294b315d98fd87f1e179160b2235d831b22429[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: wolvsrcool <oleksandr.havrylenko.kb.2022@lpnu.ua>
+Date:   Mon Jan 27 20:21:54 2025 +0200
+
+    Test commit
+
+[33mcommit 872a7a6d0464961886a6b8d5e15fc3b7c49fece4[m
+Author: o16232 <oleksandr.havrylenko.kb.2022@lpnu.ua>
+Date:   Mon Jan 27 20:09:51 2025 +0200
+
+    Master branch commit
+
+[33mcommit 28c9e0d07adbd8ce97889b8601acf64c191862ce[m
+Author: o16232 <oleksandr.havrylenko.kb.2022@lpnu.ua>
+Date:   Mon Jan 27 20:03:17 2025 +0200
+
+    test
+
+[33mcommit 6d4c5a292c76f77cb3e30c21afbc0c0f9d2ba7b2[m
+Author: o16232 <oleksandr.havrylenko.kb.2022@lpnu.ua>
+Date:   Mon Jan 27 20:02:05 2025 +0200
+
+    first commit
+
+[33mcommit ab54a86e70519d1e5bb908204a6c30248351ed11[m
+Author: o16232 <oleksandr.havrylenko.kb.2022@lpnu.ua>
+Date:   Mon Jan 27 19:54:12 2025 +0200
+
+    Initial comit
